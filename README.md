@@ -1,2 +1,2 @@
-# Novel-website-
-A responsive website for a fashion designer
+novel-website
+"A website for a novel publishing platform"
